@@ -1,0 +1,93 @@
+{
+    "landing": {
+        "firstName": "Andrew",
+        "lastName": "Chupakhin",
+        "phoneNumber": "+7-906-764-33-46",
+        "bio": "I am computer network researcher at Moscow State University. Developed resources allocation algorithm for datacenters, caching algorithm for CDN. Work with SDN/NFV. My tech stack includes Python and C++. Python for data analysis and fast scripting, C++ to implement applied algorithms.",
+        "email": "andrewchup@lvk.cs.msu.ru",
+        "linkedin": "https://www.linkedin.com/in/andrey-chupakhin-158a21161/",
+        "github": "https://github.com/andxeg",
+        "facebook": "https://www.facebook.com/andrew.chupakhin",
+        "telegram": "https://t.me/andxeg",
+        "instagram": "https://www.instagram.com/andxeg/",
+        "istina": "https://istina.msu.ru/profile/ChupakhinAA/ ",
+        "strava": "https://www.strava.com/athletes/33895782",
+        "garmin": "https://connect.garmin.com/modern/profile/b0ae6390-e5c2-49c2-a3dc-1b98d802cc13",
+        "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57211292818",
+        "mendeley": "https://www.mendeley.com/authors/57211292818/"
+    },
+    "experience": [
+        {
+            "position": "Senior Software Engineer",
+            "organization": "Qrator Labs",
+            "aboutWork": "C++ programming core component",
+            "fromDate": "October 2018",
+            "toDate": "Present"
+        },
+        {
+            "position": "Software Developer",
+            "organization": "Ingenico Group",
+            "aboutWork": "POS terminal programming, C language",
+            "fromDate": "July 2018",
+            "toDate": "October 2018"
+        },
+        {
+            "position": "Software Engineer",
+            "organization": "ARCCN",
+            "aboutWork": "SDN/NFV, Openstack, Python, C++ algorithm for datacenters and CDN",
+            "fromDate": "July 2015",
+            "toDate": "July 2018"
+        }
+    ],
+    "education": [
+        {
+            "university": "Lomonosov Moscow State University",
+            "degree": "Master",
+            "gpa": "GPA",
+            "fromDate": "September 2016",
+            "toDate": "June 2018"
+        },
+        {
+            "university": "Lomonosov Moscow State University",
+            "degree": "Bachelor",
+            "gpa": "GPA",
+            "fromDate": "September 2012",
+            "toDate": "June 2016"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "Go"
+        },
+        {
+            "name": "Javascript"
+        },
+        {
+            "name": "Django"
+        },
+        {
+            "name": "React"
+        }
+    ],
+    "interests": {
+        "paragraphOne": "Descriptive detail about your interests for paragraph one",
+        "paragraphTwo": "Descriptive detail about your interests for paragraph two"
+    },
+    "awards": [
+        {
+            "awardDetail": "Your first award"
+        },
+        {
+            "awardDetail": "Your second award"
+        }
+    ]
+}
