@@ -1,6 +1,8 @@
 # Portfolio
 
-The hosted version of this repository is live at [link](link)
+GitHub Pages deployed version is at [https://andxeg.github.io/portfolio/](https://andxeg.github.io/portfolio/)
+
+Heroku Deployed version is at [https://andrewchup-portfolio.herokuapp.com/](https://andrewchup-portfolio.herokuapp.com/)
 
 ![landing page image](./landing.png)
 
