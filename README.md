@@ -1,6 +1,7 @@
 # Portfolio
 
-GitHub Pages deployed version is at [https://andxeg.github.io/portfolio/](https://andxeg.github.io/portfolio/)
+GitHub Pages deployed version is at [https://andxeg.github.io/portfolio/](https://andxeg.github.io/portfolio/) or [http://andrewchup.me/](http://andrewchup.me/)
+
 
 Heroku Deployed version is at [https://andrewchup-portfolio.herokuapp.com/](https://andrewchup-portfolio.herokuapp.com/)
 
