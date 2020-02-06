@@ -2,8 +2,7 @@
     "landing": {
         "firstName": "Andrew",
         "lastName": "Chupakhin",
-        "phoneNumber": "+7-906-764-33-46",
-        "bio": "I am computer network researcher at Moscow State University. Developed resources allocation algorithm for datacenters, caching algorithm for CDN. Work with SDN/NFV. My tech stack includes Python and C++. Python for data analysis and fast scripting, C++ to implement applied algorithms.",
+        "bio": "I am computer network researcher at Lomonosov Moscow State University. I was developing resources allocation algorithm for datacenters, caching algorithm for CDN. Worked with SDN/NFV. My tech stack includes Python and C++. Python for data analysis and fast scripting, C++ to implement applied algorithms.",
         "email": "andrewchup@lvk.cs.msu.ru",
         "linkedin": "https://www.linkedin.com/in/andrey-chupakhin-158a21161/",
         "github": "https://github.com/andxeg",
@@ -79,15 +78,15 @@
         }
     ],
     "interests": {
-        "paragraphOne": "Descriptive detail about your interests for paragraph one",
-        "paragraphTwo": "Descriptive detail about your interests for paragraph two"
+        "paragraphOne": "I am interested in programming and research in computer network.",
+        "paragraphTwo": "I like running, workout, and reading books (technical, fictional works, and self-development books). I develop my intellect, body, and spirit."
     },
     "awards": [
         {
-            "awardDetail": "Your first award"
+            "awardDetail": "Master in the field of Study Applied Mathematics and Computer Science Graduated with High Honors, 2018"
         },
         {
-            "awardDetail": "Your second award"
+            "awardDetail": "Bachelor in the field of Study Applied Mathematics and Computer Science Graduated with High Honors, 2016"
         }
     ]
 }
