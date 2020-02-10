@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faNewspaper, faMicroscope, faCaretUp } from "@fortawesome/free-solid-svg-icons";
+import { faNewspaper, faMicroscope, faCaretUp, faRunning } from "@fortawesome/free-solid-svg-icons";
 
 import { faLinkedin, faGithub, faFacebook, faTelegram, faInstagram, faStrava, faMendeley} from "@fortawesome/free-brands-svg-icons";
 
@@ -85,6 +85,11 @@ class Landing extends Component {
                 <div className="row mb-1">
                 <a href={this.landingData.garmin}>
                   <FontAwesomeIcon icon={faCaretUp} />
+                </a>
+                </div>
+                <div className="row mb-1">
+                <a href={this.landingData.running}>
+                  <FontAwesomeIcon icon={faRunning} />
                 </a>
                 </div>
               </div>
