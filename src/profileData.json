@@ -14,7 +14,9 @@
         "garmin": "https://connect.garmin.com/modern/profile/b0ae6390-e5c2-49c2-a3dc-1b98d802cc13",
         "running": "https://base.probeg.org/user/5750/",
         "scopus": "https://www.scopus.com/authid/detail.uri?authorId=57211292818",
-        "mendeley": "https://www.mendeley.com/authors/57211292818/"
+        "mendeley": "https://www.mendeley.com/authors/57211292818/",
+        "researchgate": "https://www.researchgate.net/profile/Andrey_Chupakhin",
+        "googlescholar": "https://scholar.google.com/citations?user=6TlGXJAAAAAJ"
     },
     "experience": [
         {
@@ -43,14 +45,14 @@
         {
             "university": "Lomonosov Moscow State University",
             "degree": "Master",
-            "gpa": "GPA",
+            "gpa": "GPA: 4.9/5.0",
             "fromDate": "September 2016",
             "toDate": "June 2018"
         },
         {
             "university": "Lomonosov Moscow State University",
             "degree": "Bachelor",
-            "gpa": "GPA",
+            "gpa": "GPA: 4.83/5.0",
             "fromDate": "September 2012",
             "toDate": "June 2016"
         }
@@ -84,10 +86,13 @@
     },
     "awards": [
         {
-            "awardDetail": "Master in the field of Study Applied Mathematics and Computer Science Graduated with High Honors, 2018"
+            "awardDetail": "(2018) Master in the field of Study Applied Mathematics and Computer Science Graduated with High Honors"
         },
         {
-            "awardDetail": "Bachelor in the field of Study Applied Mathematics and Computer Science Graduated with High Honors, 2016"
+            "awardDetail": "(2016) Bachelor in the field of Study Applied Mathematics and Computer Science Graduated with High Honors"
+        },
+        {
+            "awardDetail": "(14-16 Aug 2020) 2-nd place in hackathon AC-VO&PPR Hackathon: https://hacathon.ac-vo.pp.ru/. Case: Module for analyzing user behavior in the network. Determining the type of attacks using machine learning. News: https://www.vedomosti.ru/press_releases/2020/08/21/programmnii-produkt-sovmestno-s-mgu-provel-onlain-hakaton-po-neirotehnologiyam-i-iskusstvennomu-intellektu"
         }
     ]
 }
